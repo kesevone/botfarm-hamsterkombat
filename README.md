@@ -19,5 +19,5 @@
 2. `/set_max_accounts [user_id] [count]` - установка максимального кол-ва аккаунтов (лимит для юзера).
 3. `/send [text]` - дефолт рассылка по всем пользователям.
 
-#### Установка проекта чем-то схожа с моим темплейтом, можете посмотреть здесь —> [Aiogram Bot Template](https://github.com/kesevone/aiogram-dialog-bot-template)
+#### Установка проекта чем-то схожа с моим темплейтом, можете посмотреть здесь —> [Aiogram Bot Template](https://github.com/kesevone/aiogram-dialog-bot-template), только в SERVER_IP нужно установить IP вашего сервера, нужен для прокси-чекера.
 #### Связь —> [kesevone](t.me/kesevone)
